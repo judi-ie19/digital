@@ -240,11 +240,11 @@ nav li span {
     }
     .pict{
         margin-left: 40%;
-        margin-top: -15%;
+        margin-top: -40%;
 
     }
     .last h5{
-        margin-top: 10%;
+        margin-top: 5%;
     }
     .name p{
     background-color: #F0EAEA;
@@ -277,14 +277,17 @@ nav li span {
     .service p{
         margin-top: -4%;
         margin-left: 6%;
+        font-size: 20px;
     }
     .merchant p{
        margin-top: -4%;
        margin-left: 6%;
+       font-size: 20px;
     }
     .project p{
         margin-top: -4%;
         margin-left: 6%;
+        font-size: 20px;
 
     }
     /* .fa-circle-dot{
@@ -322,7 +325,7 @@ nav li span {
     .Done h4{
      margin-top:-5%;
     }
-    .num{
+    /* .num{
 
 
     }
@@ -331,9 +334,28 @@ nav li span {
     }
     .sec-2{
       
+    } */
+    /* .sec-3{
+        background-color: #daf2f8; */
+    
+    .num{
+     border: none;
+     height: 45px;
+     width: 90px;
+     margin-left: 25%;
+     border-radius: 20px;
+     background-color: #ffffff;
+     margin-top: -3.5%;
+
     }
-    .sec-3{
-        background-color: #daf2f8;
+    .splatter{
+        margin-left: 50%;
+        margin-top: -10%;
     }
+    .last-2{
+     background-color: #f7f5f6;
+    }
+
+    
        
     
